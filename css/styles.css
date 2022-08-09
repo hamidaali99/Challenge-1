@@ -1,0 +1,95 @@
+body {
+  background-color: #ece5d5;
+}
+
+img {
+  position: relative;
+  display: block;
+  float: left;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+h1 {
+  font-family: 'Fraunces', serif;
+  line-height: 33px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  line-height: 22px;
+  color: #6C7289;
+}
+
+h6 {
+  position: relative;
+  top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.5em;
+  color: #6C7289;
+}
+
+div {
+  position: relative;
+  left: 30px;
+  display: inline-block;
+}
+
+.pricetag-1 {
+  position: relative;
+  bottom: 15px;
+  color: #3C8067;
+}
+
+.pricetag-2 {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: line-through;
+  letter-spacing: normal;
+  position: relative;
+}
+
+.td {
+  position: relative;
+  left: 15px;
+  bottom: 25px;
+}
+
+.wrapper {
+  margin-left: 450px;
+  margin-right: auto;
+  margin-top: 150px;
+  background: #FFFFFF;
+  float: left;
+  border-radius: 10px;
+  width: 580px;
+}
+
+.cart {
+  position: relative;
+  top: 3px;
+  left: 5px;
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 7px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 14px;
+  background: #3C8067;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  position: relative;
+  bottom: 20px;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #2E6852;
+  text-decoration: none;
+}
